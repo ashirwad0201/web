@@ -1,0 +1,73 @@
+h1{color:blue;
+    padding:10px;
+        background-color: greenyellow;}
+
+header{
+    background-color: black;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/kcidru1-OML_ZAKIR_HSS_SUS_IN-Full-Image_GalleryBackground-en-US-1501867903119._SX1080_.jpg");
+    background-size: 100%;
+    background-position: center;
+    height: 730px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+header nav{
+    height: 100px;
+    margin-top: -140px;
+}
+
+.logo{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Amazonmusiclogo.png/250px-Amazonmusiclogo.png");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 200px;
+    text-indent: -999999;
+    position: relative;
+    width: 300px;
+    top: 100px;
+}
+
+header li{
+    color:white;
+    text-decoration:none;
+    text-transform: uppercase; 
+    margin-top: 40px;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+nav li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.features{
+    background: purple;
+    padding: 20px;
+    margin-top: 60px;
+}
+
+.features iframe{
+    border: solid 5px;
+}
+
+section h1{
+    margin-bottom: 30px;
+}
+
+footer{
+    background: black;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+
+}
+section{
+    background-color: blueviolet;
+}
